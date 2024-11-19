@@ -1,7 +1,7 @@
 
 # Sistema Especialista em Prolog
 
-**Desenvolvedores:** Rafael Munarin (@RafaelMunarin), Vitor Hugo Zonta (@VitorHugoZonta)
+**Desenvolvedores:** - [@RafaelMunarin](https://github.com/RafaelMunarin), [@VitorLuckmann](https://github.com/VitorLuckmann)
 
 ## Visão Geral
 
