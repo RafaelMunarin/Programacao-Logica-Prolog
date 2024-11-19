@@ -93,17 +93,13 @@ Cada módulo contém um arquivo `.pl` que implementa as regras e fatos para aque
    1. Vá em 'File'
    2. Selecione a opção 'New'
    3. Abra o arquivo '.pl'
-4. Faça consultas no sistema conforme necessário. Por exemplo:
-   ```prolog
-   ?- doenca(gripe).
-   ```
-5. Para cada arquivo, inicialmente digite
+4. Para cada arquivo, inicialmente digite
    ```bash
    [nome_do_arquivo].
    ```
-6. Após ter como retorno 'true' digite
+5. Após ter como retorno 'true' digite
    ```bash
    nome_funcao_principal.
    ```
-7. Seguir as instruções cfe. a programa aponta
-8. Para outro módulo, basta carregar o arquivo `.pl` correspondente no Prolog.
+6. Seguir as instruções cfe. a programa aponta
+7. Para outro módulo, basta carregar o arquivo `.pl` correspondente no Prolog.
